@@ -1,0 +1,5 @@
+Num=int(input('enter any number whether it is even or odd'))
+if(num%2)==0:
+Print('the number is even:')
+else
+Print('the number is odd:')
